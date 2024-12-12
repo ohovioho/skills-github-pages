@@ -1,6 +1,0 @@
----
-title: "pages-learning"
-date: 2024-12-12
-
-i don't know how to use this function, this is a test.
----
